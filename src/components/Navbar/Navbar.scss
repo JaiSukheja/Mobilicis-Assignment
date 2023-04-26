@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    align-items: center;
+
+    background-color: black;
+    padding: 20px 100px;
+    gap: 40px;
+    color: white;
+    .head{
+        font-size: x-large;
+        font-weight: 600;
+    }
+    .query{
+        padding: 10px 20px;
+        background-color: gray;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: large;
+        font-weight: 600;
+    }
+}
